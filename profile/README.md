@@ -1,12 +1,28 @@
-## Hi there 👋
+# Willkommen bei Schnebel IT-Systemhaus GmbH 👋
 
-<!--
+## Über uns 🏢
 
-**Here are some ideas to get you started:**
+Wir sind **Schnebel-IT**, dein Team für innovative IT-Lösungen. In dieser GitHub-Organisation findest du verschiedene Repositories mit Software und Tools, die von unserem Entwicklerteam erstellt wurden.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Unsere Projekte 💻
+
+Hier veröffentlichen wir interne Projekte, an denen wir arbeiten. Diese Repositories sind nur für Teammitglieder zugänglich und dienen der internen Zusammenarbeit und Dokumentation.
+
+## Kontakt 📞
+
+Du hast Fragen zu den Projekten oder brauchst Unterstützung?
+
+- 🌐 **Website:** [https://schnebel-it.de](https://schnebel-it.de)
+- 📧 **Internes Wiki:** [Link zum Wiki]
+- 💬 **Teams-Kanal:** #entwicklung
+
+## Richtlinien für die Zusammenarbeit ✨
+
+- Bitte halte dich an unsere Coding-Standards
+- Kommentiere deinen Code sinnvoll
+- Erstelle für neue Features einen eigenen Branch
+- Bei Fragen wende dich an das Entwicklerteam
+
+---
+
+© 2025 Schnebel IT-Systemhaus GmbH. Intern. 🚀
