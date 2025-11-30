@@ -13,8 +13,6 @@ Hier veröffentlichen wir interne Projekte, an denen wir arbeiten. Diese Reposit
 Du hast Fragen zu den Projekten oder brauchst Unterstützung?
 
 - 🌐 **Website:** [https://schnebel-it.de](https://schnebel-it.de)
-- 📧 **Internes Wiki:** [Link zum Wiki]
-- 💬 **Teams-Kanal:** #entwicklung
 
 ## Richtlinien für die Zusammenarbeit ✨
 
