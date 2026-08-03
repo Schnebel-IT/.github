@@ -69,10 +69,11 @@ Unsere Leistungen
     </td>
   </tr>
 </table>
+<br />
 
-Wofür wir stehen
+<h2>Wofür wir stehen</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <strong>Alles aus einer Hand</strong><br>
@@ -88,6 +89,7 @@ Wofür wir stehen
     </td>
   </tr>
 </table>
+<br />
 
 Sicherheit und Support
 
